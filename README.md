@@ -26,7 +26,3 @@ The goal was to explore the correlation between:
 ## Insights
 - **Rainfall vs. Food Insecurity**: Fluctuations in rainfall correlate with changes in food insecurity levels, impacted by regional factors.
 - **Market Prices**: Significant effects on food insecurity, especially in challenging weather conditions.
-
-## Acknowledgments
-- World Food Programme for providing the dataset
-- Central European University for organizing the hackathon
