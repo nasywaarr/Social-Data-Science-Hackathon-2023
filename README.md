@@ -1,7 +1,7 @@
 # Social Data Science Hackathon 2023
 
 ## Event Overview
-This project was created for the Social Data Science Student Hackathon 2023 organized by the Department of Network and Data Science at Central European University. The event focused on using data to address pressing global issues.
+This project was created for the Social Data Science Student Hackathon 2023 organized by the Department of Network and Data Science at Central European University. The hackathon focused on using data to address pressing global issues.
 
 ## Award
 - **Best High School Submission**  
